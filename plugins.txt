@@ -1,0 +1,9 @@
+git
+pipeline-model-definition
+workflow-aggregator
+credentials
+pipeline-stage-view
+docker-plugin
+ansicolor
+timestamper
+email-ext
