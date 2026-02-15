@@ -67,7 +67,7 @@ python3 jenkins_normal_user.py http://localhost:8089
 ## 8. Access Dashboard
 
 ```
-http://localhost:8089/app/dashboards
+http://localhost:5601/app/dashboards
 ```
 
 ---
